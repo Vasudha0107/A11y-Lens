@@ -10,12 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "lucide-react": "^0.344.0",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "axios": "^1.6.2",
     "axe-core": "^4.8.3",
-    "puppeteer": "^21.6.1"
+    "axios": "^1.6.2",
+    "body-parser": "^2.2.0",
+    "lucide-react": "^0.344.0",
+    "puppeteer": "^21.6.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.1",
